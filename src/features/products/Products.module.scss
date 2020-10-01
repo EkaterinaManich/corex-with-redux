@@ -1,0 +1,25 @@
+.products {
+    display: flex;
+    justify-content: space-around; 
+    flex-wrap: wrap;
+    margin: 10px;
+}
+
+.products-titles {
+    display: flex;
+    justify-content: space-around;
+    border: 2px gray solid;
+}
+
+.onSale, .sortBy {
+    font-family: cursive;
+    font-size: 20px;
+    margin: 20px 0;
+}
+
+.sortButton {
+    cursor: pointer;
+    &:hover {
+        color: rgb(127, 127, 243);
+    }
+}

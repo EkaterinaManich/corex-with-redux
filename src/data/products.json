@@ -1,0 +1,136 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "release": 1551387600000,
+      "manufacturer": "Bitmain",
+      "model": "S9i",
+      "hash": "10.5-14.5 th/s",
+      "algorithm": "SHA-256",
+      "efficiency": "8.00j/H/s",
+      "profit": "122.88",
+      "min-price": 137,
+      "max-price": 217
+    },
+    {
+      "id": 2,
+      "release": 1551387600000,
+      "manufacturer": "Aitmain",
+      "model": "S9i",
+      "hash": "10.5-14.5 th/s",
+      "algorithm": "SHA-256",
+      "efficiency": "8.00j/H/s",
+      "profit": "122.88",
+      "min-price": 37,
+      "max-price": 87
+    },
+    {
+      "id": 3,
+      "release": 1551387600000,
+      "manufacturer": "Yitmain",
+      "model": "S9i",
+      "hash": "10.5-14.5 th/s",
+      "algorithm": "SHA-256",
+      "efficiency": "8.00j/H/s",
+      "profit": "122.88",
+      "min-price": 55,
+      "max-price": 189
+    },
+    {
+      "id": 4,
+      "release": 1551387600000,
+      "manufacturer": "Kojmain",
+      "model": "S9i",
+      "hash": "10.5-14.5 th/s",
+      "algorithm": "SHA-256",
+      "efficiency": "8.00j/H/s",
+      "profit": "122.88",
+      "min-price": 95,
+      "max-price": 478
+    },
+    {
+      "id": 5,
+      "release": 1551387600000,
+      "manufacturer": "Frytain",
+      "model": "S9i",
+      "hash": "10.5-14.5 th/s",
+      "algorithm": "SHA-256",
+      "efficiency": "8.00j/H/s",
+      "profit": "122.88",
+      "min-price": 185,
+      "max-price": 337
+    },
+    {
+      "id": 6,
+      "release": 1551387600000,
+      "manufacturer": "Kobrty",
+      "model": "S9i",
+      "hash": "10.5-14.5 th/s",
+      "algorithm": "SHA-256",
+      "efficiency": "8.00j/H/s",
+      "profit": "122.88",
+      "min-price": 105,
+      "max-price": 276
+    },
+    {
+      "id": 7,
+      "release": 1551387600000,
+      "manufacturer": "Loknde",
+      "model": "S9i",
+      "hash": "10.5-14.5 th/s",
+      "algorithm": "SHA-256",
+      "efficiency": "8.00j/H/s",
+      "profit": "122.88",
+      "min-price": 206,
+      "max-price": 399
+    },
+    {
+      "id": 8,
+      "release": 1551387600000,
+      "manufacturer": "Hdrecx",
+      "model": "S9i",
+      "hash": "10.5-14.5 th/s",
+      "algorithm": "SHA-256",
+      "efficiency": "8.00j/H/s",
+      "profit": "122.88",
+      "min-price": 67,
+      "max-price": 116
+    },
+    {
+      "id": 9,
+      "release": 1551387600000,
+      "manufacturer": "Voithu",
+      "model": "S9i",
+      "hash": "10.5-14.5 th/s",
+      "algorithm": "SHA-256",
+      "efficiency": "8.00j/H/s",
+      "profit": "122.88",
+      "min-price": 75,
+      "max-price": 129
+    },
+    {
+      "id": 10,
+      "release": 1551387600000,
+      "manufacturer": "Soitnon",
+      "model": "S9i",
+      "hash": "10.5-14.5 th/s",
+      "algorithm": "SHA-256",
+      "efficiency": "8.00j/H/s",
+      "profit": "122.88",
+      "min-price": 169,
+      "max-price": 350
+    },
+    {
+      "id": 11,
+      "release": 1551387600000,
+      "manufacturer": "Woyyrt",
+      "model": "S9i",
+      "hash": "10.5-14.5 th/s",
+      "algorithm": "SHA-256",
+      "efficiency": "8.00j/H/s",
+      "profit": "122.88",
+      "min-price": 82,
+      "max-price": 185
+    }
+  ]
+}

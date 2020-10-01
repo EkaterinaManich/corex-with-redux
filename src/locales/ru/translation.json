@@ -1,0 +1,18 @@
+{
+    "Welcome to React": "Привет из Реакта",
+    "cart": "Корзина",
+    "on sale": "В продаже",
+    "sort by": "Сортировка",
+    "by manufacturer": "По производителю",
+    "minimum price": "Минимальная цена",
+    "maximum price": "Максимальная цена",
+    "release": "Дата выпуска",
+    "manufacturer": "Производитель",
+    "model": "Модель",
+    "hash": "Хеширование",
+    "algorithm": "Алгоритм",
+    "efficiency": "Еффективность",
+    "profit": "Прибыль",
+    "price": "Цена",
+    "choose some products": "Выберите товар"
+}

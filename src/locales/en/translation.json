@@ -1,0 +1,18 @@
+{
+    "Welcome to React": "Welcome to React and react-i18next",
+    "cart": "Cart",
+    "on sale": "ON SALE",
+    "sort by": "SORT BY",
+    "by manufacturer": "By manufacturer",
+    "minimum price": "Minimum price",
+    "maximum price": "Maximum price",
+    "release": "Release",
+    "manufacturer": "Manufacturer",
+    "model": "Model",
+    "hash": "Hash",
+    "algorithm": "Algorithm",
+    "efficiency": "Efficiency",
+    "profit": "Profit",
+    "price": "Price",
+    "choose some products": "Choose some products"
+}

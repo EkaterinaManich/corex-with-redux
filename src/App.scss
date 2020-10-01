@@ -1,0 +1,37 @@
+
+
+.App {
+  min-height: 100vh;
+  background-color: #0B0C23;
+  color: white;
+}
+
+header {
+  height: 70px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0 15px;
+  
+  .logo {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: bold;
+    font-size: larger;
+    border-bottom: 3px white solid;
+    margin-right: 20px;
+  }
+
+  .logo-lang {
+    display: flex;
+
+    button {
+      margin: 3px;
+      border-radius: 5px;
+      cursor: pointer;
+
+      &.active {
+        background: rgb(146, 250, 146);
+      }
+    }
+  } 
+}

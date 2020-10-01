@@ -1,0 +1,17 @@
+.product {
+    display: flex;
+
+    &.active {
+        color: rgb(241, 124, 124);
+    }
+
+    &:hover {
+        color: rgb(241, 124, 124);
+    }
+
+    > div {
+        margin: 0 15px;
+        cursor: pointer;
+       
+    }
+}
